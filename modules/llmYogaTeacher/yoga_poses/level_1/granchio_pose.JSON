@@ -1,0 +1,49 @@
+{
+   "value":{
+      "neck":87.8307424102715,
+      "left_shoulder":179.00365210349506,
+      "right_shoulder":-0.946951446773465,
+      "left_elbow":5.345445372767093,
+      "right_elbow":174.83475895500422,
+      "left_knee":33.82829591766255,
+      "right_knee":146.94723410459952,
+      "left_wrist":-90.576120480819576,
+      "right_wrist":-90.19179689221875
+   },
+
+    "ins": {
+        "italian": {
+            "neck": ["radrizza la testa"],
+            "left_shoulder": ["Raddrizza il  busto"], "right_shoulder": ["Raddrizza il busto"],
+            "left_elbow": ["allinea il gomito sinistro con la spalla"], "right_elbow": ["allinea il gomito destro con la spalla"],
+            "left_knee": ["piega di piu il ginocchio"], "right_knee": ["piega di piu il ginocchio"],
+            "right_wrist": ["forma un angolo di novanta gradi con il gomito destro"], "left_wrist": ["forma un angolo di novanta gradi con il gomito sinistro"]
+        },
+
+        "english": {
+            "neck": ["Straighten your head"],
+            "left_shoulder": ["Straighten your torso"], "right_shoulder": ["Straighten your torso"],
+            "left_elbow": ["Align your left elbow with your shoulder"], "right_elbow": ["Align your right elbow with your shoulder"],
+            "left_knee": ["Bend your knee more"], "right_knee": ["Bend your knee more"],
+            "right_wrist": ["Form a ninety degree angle with your right elbow"], "left_wrist": ["Form a ninety degree angle with your left elbow"]
+        }
+        
+    },
+
+    "critical_joints": {
+        "neck": ["raddrizzare la testa"],
+        "left_shoulder": ["raddrizzare il busto"], "right_shoulder": ["raddrizzare il busto"],
+        "left_elbow": ["allineare il gomito sinistro con la spalla"], "right_elbow": ["allineare il gomito destro con la spalla"],
+        "left_knee": ["piegare bene il ginocchio"], "right_knee": ["piegare bene il ginocchio"],
+        "right_wrist": ["tenere un angolo di novanta gradi con il gomito destro"], "left_wrist": ["tenere un angolo di novanta gradi con il gomito sinistro"]
+    },
+
+    "show_correction": {
+        "neck": ["rest_position"],
+        "left_shoulder": ["rest_position"], "right_shoulder": ["rest_position"],
+        "left_elbow": ["granchio_armL"], "right_elbow": ["granchio_armR"],
+        "left_knee": ["granchio_legL"], "right_knee": ["granchio_legR"],
+        "right_wrist": ["granchio_armR"], "left_wrist": ["granchio_armL"]
+    }
+}
+

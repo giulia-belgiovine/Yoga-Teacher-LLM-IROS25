@@ -1,0 +1,45 @@
+{
+ "value":{
+      "left_shoulder":175.3999043337367,
+      "right_shoulder":8.212780189285887,
+      "left_elbow":1.778800315673848,
+      "right_elbow":178.2642954110716,
+      "left_knee":73.79097507219204,
+      "right_knee":106.3610774553463,
+      "left_wrist":0.30423868281918,
+      "right_wrist":178.08938491892526579
+   },
+
+ "ins": {
+   "italian":{
+      "left_shoulder": ["Raddrizza il busto"], "right_shoulder": ["Raddrizza il busto"],
+      "left_elbow": ["allinea il braccio sinistro con la spalla"], "right_elbow": ["allinea il braccio destro con la spalla"],
+      "left_knee": ["divarica e stendi le gambe"], "right_knee": ["divarica e stendi le gambe"],
+      "right_wrist": ["stendi il braccio destro"], "left_wrist": ["stendi il braccio sinistro"]
+   },
+
+   "english":{
+      "left_shoulder": ["Straighten your torso"], "right_shoulder": ["Straighten your torso"],
+      "left_elbow": ["Align your left arm with your shoulder"], "right_elbow": ["Align your right arm with your shoulder"],
+      "left_knee": ["Spread and stretch your legs"], "right_knee": ["Spread and stretch your legs"],
+      "right_wrist": ["Extend your right arm"], "left_wrist": ["Extend your left arm"]
+   }
+
+ },
+
+  "critical_joints": {
+
+     "left_shoulder": ["raddrizzare il busto"], "right_shoulder": ["raddrizzare il busto"],
+     "left_elbow": ["allineare il braccio sinistro con la spalla"], "right_elbow": ["allineare il braccio destro con la spalla"],
+     "left_knee": ["divaricare e stendere le gambe"], "right_knee": ["divaricare e stendere le gambe"],
+     "right_wrist": ["stendere il braccio destro"], "left_wrist": ["stendere il braccio sinistro"]
+  },
+
+  "show_correction": {
+
+     "left_shoulder": ["aeroplano_torso"], "right_shoulder": ["aeroplano_torso"],
+     "left_elbow": ["aeroplano_armL"], "right_elbow": ["aeroplano_armR"],
+     "left_knee": ["rest_position"], "right_knee": ["rest_position"],
+     "right_wrist": ["aeroplano_armD"], "left_wrist": ["aeroplano_armL"]
+  }
+}

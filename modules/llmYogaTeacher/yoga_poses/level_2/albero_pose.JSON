@@ -1,0 +1,49 @@
+{
+   "value":{
+      "neck":92.32153058983273,
+      "left_shoulder":-178.10661415425372,
+      "right_shoulder":5.710593137499642,
+      "left_elbow":5.425226368420328,
+      "right_elbow":177.49686022041507,
+      "left_knee":98.62885606302491,
+      "right_knee":143.94275394840975,
+      "left_wrist":-90.875058247994115,
+      "right_wrist":-90.62275083482652
+   },
+
+    "ins": {
+        
+        "italian": {
+            "neck": ["guarda frontalmente"],
+            "left_shoulder": ["raddrizza il busto"], "right_shoulder": ["raddrizza il busto"],
+            "left_elbow": ["allinea il braccio sinistro con la spalla"], "right_elbow": ["allinea il braccio destro con la spalla"],
+            "left_knee": ["stendi la gamba sinistra"],  "right_knee": ["solleva e piega la gamba destra"],
+            "right_wrist": ["forma un angolo di novanta gradi con il gomito destro"], "left_wrist": ["forma un angolo di novanta gradi con il gomito sinistro"]
+        },
+
+        "english": {
+            "neck": ["Look forward"],
+            "left_shoulder": ["Straighten your torso"], "right_shoulder": ["Straighten your torso"],
+            "left_elbow": ["Align your left arm with your shoulder"], "right_elbow": ["Align your right arm with your shoulder"],
+            "left_knee": ["Extend your left leg"],  "right_knee": ["Lift and bend your right leg"],
+            "right_wrist": ["Form a ninety degree angle with your right elbow"], "left_wrist": ["Form a ninety degree angle with your left elbow"]
+        }
+        
+     },
+
+    "critical_joints": {
+        "neck": ["guardare frontalmente"],
+        "left_shoulder": ["tenere dritto il busto"], "right_shoulder": ["tenere dritto il busto"],
+        "left_elbow": ["allineare il braccio sinistro con la spalla"], "right_elbow": ["allineare il braccio destro con la spalla"],
+        "left_knee": ["stendere la gamba sinistra"], "right_knee": ["sollevare e piegare la gamba destra"],
+        "right_wrist": ["formare un angolo di novanta gradi con il gomito destro"], "left_wrist": ["formare un angolo di novanta gradi con il gomito sinistro"]
+    },
+
+    "show_correction": {
+        "neck": ["rest_position"],
+        "left_shoulder": ["rest_position"], "right_shoulder": ["rest_position"],
+        "left_elbow": ["albero_armL"], "right_elbow": ["albero_armR"],
+        "left_knee": ["rest_position"], "right_knee": ["albero_legR"],
+        "right_wrist": ["albero_armR"], "left_wrist": ["albero_armL"]
+    }
+}

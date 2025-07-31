@@ -1,0 +1,52 @@
+{
+   "value":{
+       "neck":81.67434966957316,
+       "left_shoulder":178.31531568210374,
+       "right_shoulder":0.48969559312922417,
+       "left_elbow":-6.254032743916468,
+       "right_elbow":-174.28940686250036,
+       "left_knee":90.54565759341573,
+       "right_knee":78.15360586678057,
+       "left_wrist":0.30423868281918,
+       "right_wrist":178.08938491892526579
+   },
+
+    "ins": {
+        
+        "italian": {
+            "neck": ["raddrizza la testa"],
+            "left_shoulder": ["raddrizza il busto"], "right_shoulder": ["raddrizza il busto"],
+            "left_elbow": ["allinea il braccio sinistro con la spalla"],"right_elbow": ["allinea il braccio destro con la spalla"],
+            "left_knee": ["alza la gamba sinistra"], "right_knee": ["stendi la gamba destra"],
+            "right_wrist": ["stendi il braccio destro"], "left_wrist": ["stendi il braccio sinistro"]
+        },
+
+        "english": {
+            "neck": ["Straighten your head"],
+            "left_shoulder": ["Straighten your torso"], "right_shoulder": ["Straighten your torso"],
+            "left_elbow": ["Align your left arm with your shoulder"],"right_elbow": ["Align your right arm with your shoulder"],
+            "left_knee": ["Lift your left leg"], "right_knee": ["Extend your right leg"],
+            "right_wrist": ["Extend your right arm"], "left_wrist": ["Extend your left arm"]
+        }
+        
+    },
+
+    "critical_joints": {
+        "neck": ["raddrizzare la testa"],
+        "left_shoulder": ["raddrizzare il busto"], "right_shoulder": ["raddrizzare il busto"],
+        "left_elbow": ["allineare il braccio sinistro con la spalla"], "right_elbow": ["allineare il braccio destro con la spalla"],
+        "left_knee": ["alzare la gamba sinistra"], "right_knee": ["stendere la gamba destra"],
+        "right_wrist": ["stendere il braccio destro"], "left_wrist": ["stendere il braccio sinistro"]
+    },
+
+    "show_correction": {
+        "neck": ["rest_position"],
+        "left_shoulder": ["fenicottero_torso"], "right_shoulder": ["fenicottero_torso"],
+        "left_elbow": ["fenicottero_armL"], "right_elbow": ["fenicottero_armR"],
+        "left_knee": ["fenicottero_legL"], "right_knee": ["rest_position"],
+        "right_wrist": ["fenicottero_armR"], "left_wrist": ["fenicottero_armL"]
+    }
+}
+
+
+

@@ -1,0 +1,49 @@
+{
+   "value":{
+
+      "left_shoulder":127.6004053401129,
+      "right_shoulder":-50.19442890773481,
+      "left_elbow":-43.196004883799404,
+      "right_elbow":122.50398895556249,
+      "left_knee":58.83604938563977,
+      "right_knee":136.78991060824606,
+      "left_wrist":-30.67139887615163,
+      "right_wrist":135.37667422348525
+   },
+
+   "ins": {
+      "italian": {
+        "left_shoulder": ["inclina il busto verso destra"], "right_shoulder": ["inclina il busto verso destra"],
+        "left_elbow": ["allinea il braccio sinistro con la spalla"], "right_elbow": ["allinea il braccio destro con la spalla"],
+        "left_knee": ["stendi e allunga la gamba sinistra, punta il piede in avanti"], "right_knee": ["punta il piede destro verso l'esterno, piega il ginocchio destro a 90 gradi"],
+        "right_wrist": ["stendi il braccio destro"], "left_wrist": ["stendi il braccio sinistro"]
+      },
+
+      "english": {
+        "left_shoulder": ["Tilt your torso to the right"], "right_shoulder": ["Tilt your torso to the right"],
+        "left_elbow": ["Align your left arm with your shoulder"], "right_elbow": ["Align your right arm with your shoulder"],
+        "left_knee": ["Extend and stretch your left leg, pointing your foot forward"], "right_knee": ["Point your right foot outward, and bend your right knee to 90 degrees"],
+        "right_wrist": ["Extend your right arm"], "left_wrist": ["Extend your left arm"]
+      }
+     
+   },
+
+   "critical_joints": {
+
+       "left_shoulder": ["tenere il busto frontale e il bacino fermo e inclinare il busto verso destra"],
+       "right_shoulder": ["tenere il busto frontale e il bacino fermo e inclinare il busto verso destra"],
+       "left_elbow": ["allineare il braccio sinistro con la spalla"], "right_elbow": ["allineare il braccio destro con la spalla"],
+       "left_knee": ["stendere e allungare la gamba sinistra, puntando il piede in avanti"], "right_knee": ["piegare il ginocchio destro e tenerlo perpendicolare al piede"],
+       "right_wrist": ["stendere il braccio destro"], "left_wrist": ["stendere il braccio sinistro"]
+   },
+
+   "show_correction": {
+
+       "left_shoulder": ["lottatore_torso"],
+       "right_shoulder": ["lottatore_torso"],
+       "left_elbow": ["lottatore_armL"], "right_elbow": ["lottatore_armR"],
+       "left_knee": ["lottatore_legL"], "right_knee": ["lottatore_legR"],
+       "right_wrist": ["lottatore_armR"], "left_wrist": ["lottatore_armL"]
+   }
+}
+
