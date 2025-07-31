@@ -176,15 +176,14 @@ The iCub robot can demonstrate yoga poses each categorized into 3 levels of diff
 </details>
 
 ---
-## 👥 Authors and acknowledgment
-### Code developed by: 
+## 👥 Authors and Acknowledgment
+### Code developed and mantained by: 
 
-Giulia Belgiovine (giulia.belgiovine@iit.it) and Luca Garello (luca.garello@iit.it)
+Luca Garello (luca.garello@iit.it) and Giulia Belgiovine (giuliabelgiovine@gmail.com) 
 
+Acknowledgments: 
 Thanks to Gabriele Russo for his work and contribution to the project during his master thesis work.
-
-### Currently maintained by:
-Giulia Belgiovine and Luca Garello
+Thanks to Jonas Gonzalez for his earlier contribution to the project's development.
 
 ---
 ## 📜 License
