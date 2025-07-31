@@ -1,0 +1,133 @@
+{
+    "Category": "General",
+    "Questions": [
+        {
+            "Question": "How many people are there in total?",
+            "GroundTruth": "there are 28 people in total"
+        },
+        {
+            "Question": "How many people currently practice swimming? List them.",
+            "GroundTruth": "Only one user actually practice swimming: Liam Patel"
+        },
+        {
+            "Question": "How many people practice, like or have an interest in hiking? List them.",
+            "GroundTruth": "There are 5 people that practice hiking: Mark Evans, Olivia Torres, Laura Peterson, Daniel Carter, Ethan Brooks"
+        },
+        {
+            "Question": "How many people practices, like or have an interest in photography? List them.",
+            "GroundTruth": "There are 4 people that practice photography: Alex Novak, Chris Hall, Laura Peterson, David Chen"
+        },
+        {
+            "Question": "How many people practices, like or have an interest in chess? List them.",
+            "GroundTruth": "There are 3 people that practice chess: John Martinez, David Chen, Chris Hall"
+        },
+        {
+            "Question": "How many people practices, like or have an interest in cooking? List them.",
+            "GroundTruth": "There are 2 people that practice cooking: John Martinez, Olivia Torres"
+        },
+        {
+            "Question": "How many people practices, like or have an interest in bouldering and rock climbing? List them.",
+            "GroundTruth": "There are 2 people that practice bouldering and rock climbing: Taylor Reed, James Lee"
+        },
+        {
+            "Question": "How many people practices, like or have an interest in gardening? List them.",
+            "GroundTruth": "There are 3 people that practice gardening: David Chen, Margaret Hughes, Emily Carter"
+        },
+        {
+            "Question": "How many people  practices, like or have an interest in pottery? List them.",
+            "GroundTruth": "There are 2 people that do pottery: Emily Carter, Olivia Simmons"
+        },
+        {
+            "Question": "How many people practices, like or have an interest in painting? List them.",
+            "GroundTruth": "There are 3 people that practice painting: Emily Carter, Olivia Simmons, Maria Russo"
+        },
+        {
+            "Question": "Are people interested in pottery also interested in painting? Show an example.",
+            "GroundTruth": "Yes. As an example Emily Carter and Olivia Simmons share the same interest for pottery and painting"
+        },
+        {
+            "Question": "How many people have a beginner training level?",
+            "GroundTruth": "There are 11 people with a beginner training level"
+        },
+        {
+            "Question": "Who are people with a beginner training level?",
+            "GroundTruth": "The people with a beginner training level are:\n\n1. Mark Evans\n2. Nancy Adams\n3. Jordan Ellis\n4. Michael Johnson\n5. David Chen\n6. Ethan Brooks\n7. Sarah Quinn\n8. Mia Harper\n9. Maria Russo\n10. Lily Parker\n11. Lisa Wright"
+        },
+        {
+            "Question": "How many people have an intermediate training level?",
+            "GroundTruth": "There are 15 people with an intermediate training level"
+        },
+        {
+            "Question": "Who are people with an intermediate training level?",
+            "GroundTruth": "The people with an intermediate training level are:\n\n1. John Martinez\n2. Sophie Zhang\n3. Alex Novak\n4. Taylor Reed\n5. James Lee\n6. Olivia Torres\n7. Margaret Hughes\n8. Helen Clarke\n9. Liam Patel\n10. Ryan Brooks\n11. Laura Peterson\n12. Emily Carter\n13. Chris Hall\n14. Olivia Simmons\n15. Daniel Carter"
+        },
+        {
+            "Question": "How many people have an advanced training level?",
+            "GroundTruth": "There are 2 people with an advanced training level"
+        },
+        {
+            "Question": "Who are people with an advanced training level?",
+            "GroundTruth": "People with an advanced training level are Elena Gomez and Hannah Bell"
+        },
+        {
+            "Question": "How many people have completed 0 poses successfully?",
+            "GroundTruth": "Zero people have completed 0 poses successfully"
+        },
+        {
+            "Question": "How many people have completed 1 pose successfully? List their name (followed by poses done successfully in brackets) ",
+            "GroundTruth": "9 people have completed 1 pose successfully: Daniel Carter (lottatore), Helen Clarke (albero), John Martinez (fenicottero), liam patel (fenicottero), lily parker (Aeroplano), lisa wriht (Granchio), Mark Evans (aeroplano), Olivia Simmons (Fenicottero), Taylor Reed (Fenicottero)."
+        },
+        {
+            "Question": "How many people have completed 2 poses successfully? List their name (followed by poses done successfully in brackets)",
+            "GroundTruth": "11 people have completed 2 poses successfully: Sophie Zhang (fenicottero, albero), Sarahn Quinn (aeroplano, guerriero), Ryan Brooks (fenicottero', 'lottatore), Michael Johnson (granchio, guerriero), Margaret Hughes ('albero', 'fenicottero'), Laura Peterson (albero, lottatore), Jordan Ellis ('aeroplano', 'guerriero'), James Lee (albero, lottatore), Hannah Bell (triangolo, ruota), Emily Carter (albero, lottatore), David Chen (areoplano, granchio)"
+        },
+        {
+            "Question": "How many people have completed 3 poses successfully?",
+            "GroundTruth": "8 people have completed 3 poses successfully"
+        },
+        {
+            "Question": "Are there more beginners, intermediate or advanced people?",
+            "GroundTruth": "There are more intermediate people than beginners or advanced ones."
+        },
+        {
+            "Question": "Are there more recurrent sports practiced by users? List the top 3 most recurrent sports",
+            "GroundTruth": "Most recurrent sports are Hiking, Yoga and walking"
+        },
+        {
+            "Question": "How many people are there who do not practice any sport? List them",
+            "GroundTruth": "2 people do not practice any sport: Maria Russo and Michael Jonson"
+        },
+        {
+            "Question": "Do people who never practice sport always fail in completing the proposed poses? Show the examples.",
+            "GroundTruth": "No. For example Maria did successfully all the 3 poses and Michael did successfully 2 poses out of 3"
+        },
+        {
+            "Question": "Are there more people who practice sports regularly, occasionally or never?",
+            "GroundTruth": "There are more people practicing sports regularly"
+        },
+        {
+            "Question": "What is the success rate for beginners in total (compute it as all poses successfully completed by beginners and the total poses made by beginners)?",
+            "GroundTruth": "Success Rate for all beginners is approximately 70%"
+        },
+        {
+            "Question": "What is the failure rate for beginners (compute it as all poses failed by beginners and the total poses made by beginners)?",
+            "GroundTruth": "Failure rate for all beginners is 30%"
+        },
+        {
+            "Question": "Are there poses which are more likely to be failed by beginners (compute it as the total number in which the pose has been failed by beginners divided by the total number in which that pose has been done. Express it in percentage)",
+            "GroundTruth": "Guerriero and granchio pose have highest failure rate of 36% (4 out of 11)"
+        },
+        {
+            "Question": "What is the success rate for intermediate in total (compute it as all poses successfully completed by intermediate and the total poses made by intermediates)?",
+            "GroundTruth": "Success Rate for all intermediate is 60%"
+        },
+        {
+            "Question": "What is the failure rate for intermediate (compute it as all poses failed by intermediate and the total poses made by intermediate)?",
+            "GroundTruth": "Failure rate for all intermediate is 40%"
+        },
+        {
+            "Question": "Are there poses which are more likely to be failed by intermediates? (compute it as the total number in which one pose has been failed by intermediates divided by the total number in which that pose has been done. Express it in percentage)",
+            "GroundTruth": "Lottatore have highest failure rate of 46% (7 fails out of 15)"
+        }
+    ]
+}
