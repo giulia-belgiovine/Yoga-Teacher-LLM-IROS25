@@ -1,0 +1,12 @@
+**Name**: John Martinez
+**Age**: 68
+**Interests**: Playing chess, classic cars, and cooking
+**Sport**: Walks 4-5 miles daily for exercise
+**Job**: Retired engineer
+**Personality**:
+- Openness: Moderate – enjoys learning within familiar contexts
+- Conscientiousness: Moderate – values balance between relaxation and responsibility
+- Extraversion: Moderate – sociable but enjoys his personal space
+- Agreeableness: High – approachable and collaborative
+- Neuroticism: Moderate – occasionally stressed but adaptable
+**Probability of yoga success**: 45%

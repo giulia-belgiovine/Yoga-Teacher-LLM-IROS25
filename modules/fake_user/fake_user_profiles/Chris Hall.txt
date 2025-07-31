@@ -1,0 +1,12 @@
+**Name**: Chris Hall
+**Age**: 55
+**Interests**: Traveling, photography, and chess
+**Sport**: Practices tai chi twice a week
+**Job**: Retired airline pilot
+**Personality**:
+- Openness: High – loves new cultures and experiences
+- Conscientiousness: High – disciplined and precise
+- Extraversion: Moderate – values meaningful connections
+- Agreeableness: Moderate – polite but independent
+- Neuroticism: Low – calm and adaptable
+**Probability of yoga success**: 50%

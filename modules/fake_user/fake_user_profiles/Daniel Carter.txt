@@ -1,0 +1,12 @@
+**Name**: Daniel Carter  
+**Age**: 35  
+**Interests**: Playing guitar, traveling, and cooking exotic dishes
+**Sport**: Enjoys outdoor activities such as hiking and occasionally participates in local soccer games.
+**Job**: Marketing Specialist  
+**Personality**:  
+- Openness: High – loves exploring new ideas  
+- Conscientiousness: Moderate – balances structure with flexibility  
+- Extraversion: High – outgoing and energetic  
+- Agreeableness: Moderate – friendly but firm  
+- Neuroticism: Moderate – experiences occasional stress
+**Probability of yoga success**: 65%

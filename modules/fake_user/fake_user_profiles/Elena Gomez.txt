@@ -1,0 +1,12 @@
+**Name**: Elena Gomez
+**Age**: 42  
+**Interests**: Yoga, gardening, and writing poetry  
+**Sport**: Sport: Practices yoga daily and occasionally attends outdoor meditation retreats.
+**Job**: Teacher
+**Personality**:
+- Openness: High – enjoys creativity and new experiences  
+- Conscientiousness: High – organized and thorough  
+- Extraversion: Moderate – balanced between sociability and solitude  
+- Agreeableness: High – warm and supportive  
+- Neuroticism: Low – calm under pressure
+**Probability of yoga success**: 95%

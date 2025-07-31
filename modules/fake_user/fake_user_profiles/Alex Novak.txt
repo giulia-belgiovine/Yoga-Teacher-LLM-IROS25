@@ -1,0 +1,12 @@
+**Name**: Alex Novak  
+**Age**: 32  
+**Interests**: Cycling, photography, and science fiction
+**Sport**: Enjoys long-distance cycling on weekends and participates in local cycling events.
+**Job**: Teacher
+**Personality**:
+- Openness: High – fascinated by new ideas  
+- Conscientiousness: Moderate – balances focus with flexibility  
+- Extraversion: Moderate – enjoys social settings occasionally  
+- Agreeableness: Moderate – kind but firm  
+- Neuroticism: Moderate – has occasional mood swings
+**Probability of yoga success**: 85%

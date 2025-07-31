@@ -1,0 +1,12 @@
+**Name**: Ethan Brooks
+**Age**: 22
+**Interests**: Gaming, hiking, and technology
+**Sport**: Occasional hiking on weekends
+**Job**: Intern at a software company
+**Personality**:
+- Openness: Moderate – curious about the world, but cautious
+- Conscientiousness: High – detail-oriented and organized
+- Extraversion: Low – enjoys small groups or being alone
+- Agreeableness: Moderate – cooperative but not overly accommodating
+- Neuroticism: Low – relaxed and resilient
+**Probability of yoga success**: 70%

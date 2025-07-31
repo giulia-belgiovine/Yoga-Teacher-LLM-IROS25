@@ -1,0 +1,12 @@
+**Name**: Olivia Simmons  
+**Age**: 29  
+**Interests**: Painting, pottery, and fitness
+**Sport**: Strength training, practiced four times a week.
+**Job**: Engineer  
+**Personality**:  
+- Openness: High – loves artistic expression  
+- Conscientiousness: High – diligent and precise  
+- Extraversion: Low – prefers small gatherings  
+- Agreeableness: Moderate – helpful but selective  
+- Neuroticism: Low – calm under stress
+**Probability of yoga success**: 85%

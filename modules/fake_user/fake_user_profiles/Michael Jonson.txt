@@ -1,0 +1,12 @@
+**Name**: Michael Johnson  
+**Age**: 50  
+**Interests**: Fishing, woodworking, and watching documentaries
+**Sport**: no sport practiced
+**Job**: Engineer  
+**Personality**:  
+- Openness: Moderate – appreciates new experiences but prefers routine  
+- Conscientiousness: High – reliable and methodical  
+- Extraversion: Low – reserved and reflective  
+- Agreeableness: Moderate – cooperative but cautious  
+- Neuroticism: Low – rarely anxious
+**Probability of yoga success**: 20%

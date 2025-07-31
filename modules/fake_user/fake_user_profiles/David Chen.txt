@@ -1,0 +1,12 @@
+**Name**: David Chen
+**Age**: 39
+**Interests**: Photography, chess, and gardening
+**Sport**: Plays tennis on weekends
+**Job**: Architect
+**Personality**:
+- Openness: High – loves innovation and design
+- Conscientiousness: High – meticulous and hardworking
+- Extraversion: Moderate – enjoys occasional networking events
+- Agreeableness: Moderate – values fairness and honesty
+- Neuroticism: Moderate – has moments of self-doubt
+**Probability of yoga success**: 40%

@@ -1,0 +1,12 @@
+**Name**: Helen Clarke
+**Age**: 74
+**Interests**: Knitting, crossword puzzles, and playing piano
+**Sport**: Attends aqua aerobics classes twice a week
+**Job**: Retired music teacher
+**Personality**:
+- Openness: High – loves exploring creative pursuits
+- Conscientiousness: Moderate – balances leisure with some structure
+- Extraversion: Moderate – enjoys occasional social activities
+- Agreeableness: High – warm and patient
+- Neuroticism: Low – rarely feels anxious
+**Probability of yoga success**: 40%

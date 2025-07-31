@@ -1,0 +1,12 @@
+**Name**: Ryan Brooks  
+**Age**: 44  
+**Interests**: Golfing, puzzles, and learning new languages
+**Sport**: Golf, played twice a week.
+**Job**: Teacher  
+**Personality**:  
+- Openness: High – enjoys intellectual pursuits  
+- Conscientiousness: High – disciplined and focused  
+- Extraversion: Moderate – conversationalist with balance  
+- Agreeableness: Moderate – fair but assertive  
+- Neuroticism: Low – steady and optimistic
+**Probability of yoga success**: 75%

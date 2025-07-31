@@ -1,0 +1,12 @@
+**Name**: Hannah Bell
+**Age**: 50
+**Interests**: Reading, yoga, and bird watching
+**Sport**: Practices yoga 4 times a week
+**Job**: Nonprofit director
+**Personality**:
+- Openness: High – enjoys intellectual and personal growth
+- Conscientiousness: High – organized and proactive
+- Extraversion: Moderate – enjoys professional networking
+- Agreeableness: High – kind and supportive
+- Neuroticism: Low – balanced and composed
+**Probability of yoga success**: 80%

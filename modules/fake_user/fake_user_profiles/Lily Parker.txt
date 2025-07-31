@@ -1,0 +1,12 @@
+**Name**: Lily Parker
+**Age**: 23
+**Interests**: Photography, gardening, and reading historical fiction
+**Sport**: Practices yoga occasionally
+**Job**: Freelance photographer
+**Personality**:
+- Openness: High – always seeking inspiration in the world
+- Conscientiousness: High – very disciplined with her projects
+- Extraversion: Moderate – enjoys connections but needs downtime
+- Agreeableness: Moderate – thoughtful but not overly accommodating
+- Neuroticism: Moderate – occasionally worries about the future
+**Probability of yoga success**: 95%

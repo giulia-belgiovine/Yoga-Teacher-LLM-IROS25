@@ -1,0 +1,12 @@
+**Name**: Maria Russo  
+**Age**: 46  
+**Interests**: Painting, classical music, and wine tasting
+**Sport**: no sport practiced
+**Job**: Marketing Specialist  
+**Personality**:  
+- Openness: High – loves aesthetics and creativity  
+- Conscientiousness: High – structured and detail-oriented  
+- Extraversion: Low – enjoys solitude  
+- Agreeableness: High – warm and nurturing  
+- Neuroticism: Low – composed
+**Probability of yoga success**: 30%

@@ -1,0 +1,12 @@
+**Name**: Liam Patel
+**Age**: 33
+**Interests**: Reading, woodworking, and board games
+**Sport**: Swimming 3 times a week
+**Job**: Software engineer
+**Personality**:
+- Openness: Moderate – likes exploring ideas but prefers familiar routines
+- Conscientiousness: High – methodical and focused
+- Extraversion: Low – enjoys quiet environments
+- Agreeableness: Moderate – friendly but values honesty
+- Neuroticism: Low – calm and level-headed
+**Probability of yoga success**: 55%

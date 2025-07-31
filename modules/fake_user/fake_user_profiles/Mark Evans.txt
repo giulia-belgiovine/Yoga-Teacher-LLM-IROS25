@@ -1,0 +1,12 @@
+**Name**: Mark Evans
+**Age**: 49
+**Interests**: Fishing, DIY projects, and hiking
+**Sport**: Goes hiking twice a month
+**Job**: Mechanic
+**Personality**:
+- Openness: Moderate – enjoys new challenges occasionally
+- Conscientiousness: High – detail-oriented and practical
+- Extraversion: Moderate – enjoys casual conversations
+- Agreeableness: Moderate – approachable but assertive
+- Neuroticism: Low – rarely gets stressed
+**Probability of yoga success**: 65%

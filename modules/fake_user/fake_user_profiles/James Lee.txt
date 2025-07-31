@@ -1,0 +1,12 @@
+**Name**: James Lee
+**Age**: 38
+**Interests**: Rock climbing, video games, and writing short stories
+**Sport**: Regularly engages in bouldering and outdoor climbing, often joining friends or local climbing groups for weekend adventures
+**Job**: Software Developer
+**Personality**:
+- Openness: High – adventurous and curious
+- Conscientiousness: Low – spontaneous and relaxed
+- Extraversion: Moderate – sociable when needed
+- Agreeableness: Low – independent and direct
+- Neuroticism: High – easily stressed
+**Probability of yoga success**: 45%

@@ -1,0 +1,12 @@
+**Name**: Nancy Adams
+**Age**: 60
+**Interests**: Gardening, meditation, and knitting
+**Sport**: Walks daily in her neighborhood
+**Job**: Retired nurse
+**Personality**:
+- Openness: Moderate – curious but enjoys routines
+- Conscientiousness: High – detail-oriented and thoughtful
+- Extraversion: Low – values peaceful surroundings
+- Agreeableness: High – empathetic and kind
+- Neuroticism: Low – emotionally grounded
+**Probability of yoga success**: 60%

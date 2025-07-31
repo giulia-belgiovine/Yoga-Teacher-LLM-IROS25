@@ -1,0 +1,12 @@
+**Name**: Lisa Wright
+**Age**: 47
+**Interests**: Cooking, writing, and community theater
+**Sport**: Attends Zumba classes weekly
+**Job**: Accountant
+**Personality**:
+- Openness: Moderate – appreciates creativity but prefers stability
+- Conscientiousness: High – diligent and reliable
+- Extraversion: High – enjoys performing and social settings
+- Agreeableness: Moderate – supportive but assertive
+- Neuroticism: Moderate – occasionally stressed about deadlines
+**Probability of yoga success**: 75%

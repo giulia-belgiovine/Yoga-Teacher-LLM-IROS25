@@ -1,0 +1,12 @@
+**Name**: Emily Carter
+**Age**: 52
+**Interests**: Pottery, painting, and gardening
+**Sport**: Gentle yoga twice a week
+**Job**: teacher
+**Personality**:
+- Openness: High – loves learning and exploring creativity
+- Conscientiousness: Moderate – enjoys structure but not rigidity
+- Extraversion: Low – prefers intimate gatherings
+- Agreeableness: High – nurturing and kind
+- Neuroticism: Low – grounded and calm
+**Probability of yoga success**: 75%
