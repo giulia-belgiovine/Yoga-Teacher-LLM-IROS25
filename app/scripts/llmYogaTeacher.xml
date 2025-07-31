@@ -1,0 +1,144 @@
+<application>
+    <name>Yoga Teacher LLM</name>
+
+    <authors>
+        <author email="giulia.belgiovine@iit.it"> Giulia Belgiovine, Luca Garello, Gabriele Russo </author>
+    </authors>
+
+    <!-- ======== MODULES ======== -->
+    <module>
+        <name>llmYogaTeacher</name>
+		<parameters> </parameters>
+        <node>icubsrv</node>
+    </module>
+
+	<module>
+        <name>interactionInterface</name>
+		<parameters>--config llmYogaTeacher.sh --context llmYogaTeacher </parameters>
+                <node>icubsrv</node>
+    </module>
+
+    <module>
+        <name>ctpService</name>
+		<parameters>--robot icub --part right_arm</parameters>
+        <node>icubsrv</node>
+    </module>
+
+    <module>
+        <name>ctpService</name>
+		<parameters>--robot icub --part left_arm</parameters>
+        <node>icubsrv</node>
+    </module>
+
+    <module>
+        <name>ctpService</name>
+		<parameters>--robot icub --part right_leg</parameters>
+        <node>icubsrv</node>
+    </module>
+
+    <module>
+        <name>ctpService</name>
+		<parameters>--robot icub --part left_leg</parameters>
+        <node>icubsrv</node>
+    </module>
+
+    <module>
+        <name>ctpService</name>
+		<parameters>--robot icub --part torso</parameters>
+        <node>icubsrv</node>
+    </module>
+
+    <module>
+        <name>ctpService</name>
+		<parameters>--robot icub --part head</parameters>
+        <node>icubsrv</node>
+    </module>
+
+     <module>
+        <name>yarpview</name>
+		<parameters>--name  /poseView --compact</parameters>
+        <node>localhost</node>
+    </module>
+
+    <module>
+        <name> speech2text </name>
+        <parameters> --model medium --language italian --pause 1.5 </parameters>
+        <node> localhost </node>
+    </module>
+
+    <module>
+        <name> faceID  </name>
+        <parameters> --area_threshold 0.001 </parameters>
+        <node> localhost </node>
+    </module>
+
+    <module>
+        <name>yarpview</name>
+		<parameters>--name  /faceID --compact</parameters>
+        <node>localhost</node>
+    </module>
+
+    <module>
+        <name> acapelaSpeak </name>
+        <parameters> --voice alessio --tags on </parameters>
+        <node> icub-head </node>
+    </module>
+
+    <!-- ======== llmYogaTeacher ======== -->
+    <connection>
+        <from> /icub/cam/left </from>
+        <to> /llmYogaTeacher/image:i </to>
+        <protocol> tcp </protocol>
+    </connection>
+
+    <connection>
+        <from> /llmYogaTeacher/speak:o </from>
+        <to>  /acapelaSpeak/speech:i </to>
+        <protocol> tcp </protocol>
+    </connection>
+
+    <connection>
+        <from> /llmYogaTeacher/image:o </from>
+        <to>  /poseView </to>
+        <protocol> tcp </protocol>
+    </connection>
+
+    <connection>
+        <from> /llmYogaTeacher/action:o </from>
+        <to>  /interactionInterface </to>
+        <protocol> tcp </protocol>
+    </connection>
+
+    <connection>
+        <from> /speech2text/text:o </from>
+        <to>  /llmYogaTeacher/speech_recognition:i </to>
+        <protocol> tcp </protocol>
+    </connection>
+
+    <connection>
+        <from> /faceID/annotations:o </from>
+        <to>  /llmYogaTeacher/faceID:i </to>
+        <protocol> tcp </protocol>
+    </connection>
+
+    <connection>
+        <from> /llmYogaTeacher/name:o </from>
+        <to>  /faceID </to>
+        <protocol> tcp </protocol>
+    </connection>
+
+    <connection>
+        <from> /llmYogaTeacher/thr:o </from>
+        <to>  /speech2text </to>
+        <protocol> tcp </protocol>
+    </connection>
+
+    <connection>
+       <from>/acapelaSpeak/emotion:o</from>
+       <to>/icub/face/emotions/in</to>
+       <protocol>tcp</protocol>
+    </connection>
+
+
+
+</application>
